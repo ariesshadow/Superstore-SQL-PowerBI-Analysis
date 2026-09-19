@@ -14,6 +14,6 @@ Superstore-SQL-PowerBI-Analysis/
 │
 ├── dashboard/
 │   ├── Superstore_Dashboard.pbix
-│   └── dashboard_preview.png  <-- (Your final dashboard screenshot!)
+│   └── dashboard_preview: https://github.com/ariesshadow/Superstore-SQL-PowerBI-Analysis/blob/main/dashboard_preview.png
 │
 └── README.md
